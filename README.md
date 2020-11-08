@@ -11,4 +11,4 @@ Photos are taken from the site https://via.placeholder.com/.
 
 API used: /photos, /albums, /users
 
-Email dev: ruslan.miakin@gmail.com
+Email dev: miakin.ruslan@gmail.com
