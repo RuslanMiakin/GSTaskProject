@@ -1,6 +1,6 @@
 # GSTaskProject
 
-Project for parsing data in Reciclerview, Listview.
+Project for parsing data in Recyclerview, Listview.
 
 Used Androidx and standard Java-Android libraries.
 
